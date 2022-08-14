@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\bin\Debug\net6.0\Exampl50.exe
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\bin\Debug\net6.0\Exampl50.deps.json
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\bin\Debug\net6.0\Exampl50.runtimeconfig.json
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\bin\Debug\net6.0\Exampl50.dll
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\bin\Debug\net6.0\Exampl50.pdb
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.dll
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\refint\Exampl50.dll
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.pdb
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\Exampl50.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\homework07\Examples07\Exampl50\obj\Debug\net6.0\ref\Exampl50.dll
